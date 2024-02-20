@@ -1,5 +1,5 @@
 # Currency Converter
-Currency converter iOS app developed with openexchangerates API.
+Currency converter iOS app developed using openexchangerates API.
 
 ## Table of Contents
 
